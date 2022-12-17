@@ -1,1 +1,2 @@
-# Django_React_NoteApp
+# NoteApp
+Built with django for backend and ReactJS for frontend
